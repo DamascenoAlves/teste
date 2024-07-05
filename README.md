@@ -7,14 +7,8 @@
 <p align="center">API Rest em Java Spring Boot para gerenciamento de contatos utilizando segurança JWT, validação de dados com Bean Validation e documentação com Swagger.</p>
 
 <h3 align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio/releases">
-    <img alt="releases url" src="https://img.shields.io/github/v/release/seu-usuario/seu-repositorio?style=for-the-badge&labelColor=1C1E26&color=FF79C6">
-  </a>  
-  <a href="./LICENSE" target="_blank">
+    <a href="./LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=FF79C6">
-  </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank">
-    <img alt="Twitter: seu-usuario" src="https://img.shields.io/twitter/follow/seu-usuario.svg?style=for-the-badge&labelColor=1C1E26&color=FF79C6&logo=twitter" />
   </a>
 </h3>
 
@@ -78,7 +72,7 @@
 ## Como Executar a Aplicação
 1. Clone o repositório do projeto:
     ```bash
-    git clone <link-do-repositorio>
+    git clone https://github.com/DamascenoAlves/ControleDeContatos.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
@@ -103,11 +97,7 @@
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## Autor
-👤 **Eduardo Henrique Marques Ferreira**
+👤 **Matheus Damasceno Alves**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [@seu-usuario](https://linkedin.com/in/seu-usuario)
-
-**Prazo para avaliação: 10/07/2024**
-
-Bons estudos e bom trabalho!
+- GitHub: [@DamascenoAlves](https://github.com/DamascenoAlves)
+- LinkedIn: [Matheus Damasceno Alves](https://www.linkedin.com/in/damascenoalves/)
