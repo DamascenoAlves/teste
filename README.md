@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="./src/resources/icons/icon.png" width="140px" />
-</p>
-
 <h1 align="center">API Rest para Controle de Contatos</h1>
 <p align="center">API Rest em Java Spring Boot para gerenciamento de contatos utilizando segurança JWT, validação de dados com Bean Validation e documentação com Swagger.</p>
 
