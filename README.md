@@ -1,13 +1,29 @@
 
-# Avaliação Java / Spring: API Rest para Controle de Contatos
+<p align="center">
+  <img src="./src/resources/icons/icon.png" width="140px" />
+</p>
 
-## Descrição do Projeto
-Este projeto consiste na criação de uma API Rest para gerenciar um sistema de cadastro de Pessoas e seus respectivos Contatos. Cada Pessoa pode ter vários Contatos e o objetivo é permitir operações CRUD (Criar, Ler, Atualizar, Deletar) na estrutura de Pessoas e Contatos.
+<h1 align="center">API Rest para Controle de Contatos</h1>
+<p align="center">API Rest em Java Spring Boot para gerenciamento de contatos utilizando segurança JWT, validação de dados com Bean Validation e documentação com Swagger.</p>
+
+<h3 align="center">
+  <a href="https://github.com/seu-usuario/seu-repositorio/releases">
+    <img alt="releases url" src="https://img.shields.io/github/v/release/seu-usuario/seu-repositorio?style=for-the-badge&labelColor=1C1E26&color=FF79C6">
+  </a>  
+  <a href="./LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=FF79C6">
+  </a>
+  <a href="https://twitter.com/seu-usuario" target="_blank">
+    <img alt="Twitter: seu-usuario" src="https://img.shields.io/twitter/follow/seu-usuario.svg?style=for-the-badge&labelColor=1C1E26&color=FF79C6&logo=twitter" />
+  </a>
+</h3>
+
+<br />
 
 ## Tecnologias Utilizadas
 - **Java com Spring Boot (Versão 3.2.7)**
 - **JPA/Hibernate** para persistência de dados
-- **Banco de dados:** PostgreSQL ou H2
+- **Banco de dados:** MySQL, MariaDB, PostgreSQL ou H2
 - **Segurança:** Bearer token baseado em JWT
 - **Validação de dados:** Bean Validation
 - **Documentação:** Swagger (OpenAPI)
@@ -87,4 +103,11 @@ Este projeto consiste na criação de uma API Rest para gerenciar um sistema de 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## Autor
-Matheus Damasceno Alves
+👤 **Eduardo Henrique Marques Ferreira**
+
+- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [@seu-usuario](https://linkedin.com/in/seu-usuario)
+
+**Prazo para avaliação: 10/07/2024**
+
+Bons estudos e bom trabalho!
